@@ -1,0 +1,11 @@
+# Conclusiones del Ejercicio
+
+1. **Autenticación de Usuario:**
+    - El sistema maneja eficazmente la creación de usuarios y la autenticación.
+    - Responde adecuadamente a nuevos registros y detecta usuarios duplicados con mensajes de error apropiados.
+    - La autenticación funciona correctamente para credenciales válidas e inválidas, garantizando una gestión robusta de registro y login.
+
+2. **Hallazgos**
+   - Karate es una herramienta eficaz para realizar pruebas de servicios REST debido a su sintaxis sencilla y poderosa integración con JUnit.
+   - Las configuraciones en `karate-config.js` permiten manejar diferentes entornos de manera eficiente.
+   - La estructura del proyecto es fácil de mantener y ampliar para futuras pruebas.
